@@ -1,3 +1,5 @@
+<img width="1920" height="1030" alt="image_09cd5b png" src="https://github.com/user-attachments/assets/01b61f15-6fab-4d54-8940-5933610074bd" />
+<img width="4200" height="1800" alt="result_chart" src="https://github.com/user-attachments/assets/342fc977-d8ad-4dcf-a17a-1388a1b692f5" />
 # Efficiency Analysis of Pi Estimation via Monte Carlo Method
 # (基于蒙特卡罗方法的圆周率估算及其算法效率探究)
 
@@ -30,5 +32,5 @@ The project automatically generates dual-axis charts to visualize:
 - [cite_start]**December 2025:** Finalized research report for the **Nantong Youth Science and Technology Innovation Contest**. 
 
 ## 🧑‍💻 Author
-**Student at Nantong High School (Middle School Section)**
+**Student at Nantong Qixiu School (Middle School Section)**
 *Passionate about Python, Data Science, and Algorithm Optimization.*# Monte-Carlo-Method
